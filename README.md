@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vhusani
 - 👀 I’m interested in computer programing
-- 🌱 I’m currently learning java and aws
+- 🌱 I’m currently learning C#,NodeJS and aws
 - 📫 How to reach me, vhusani.libago@gmail.com
 
 <!---
