@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vhusani
 - 👀 I’m interested in computer programing
 - 🌱 I’m currently learning C#,NodeJS and aws
-- 📫 How to reach me, vhusani.libago@gmail.com
+- 📫 How to reach me => https://www.linkedin.com/in/vhusani-libago-6a1189123/
 
 <!---
 Vhusani/Vhusani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
