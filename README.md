@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Vhusani
 - 👀 I’m interested in computer programing
-- 🌱 I’m currently learning C#,NodeJS and aws
 - 📫 How to reach me => https://www.linkedin.com/in/vhusani-libago-6a1189123/
 
 <!---
